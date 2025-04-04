@@ -1,2 +1,2 @@
-# Evidence-Linkage-network-data
-As our data contains sensitive information, we will desensitize it before publication.
+# TLJGen
+Our data will be open source after the paper is accepted.
